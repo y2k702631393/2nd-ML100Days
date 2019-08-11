@@ -1,0 +1,9 @@
+原始_feature - 原始資料集所有特徵
+原始_answer - 原始答案
+1比3_feature - 1:3資料集所有特徵
+1比3_TF - 1:3資料集的TF
+1比3_NTF - 1:3資料集的NTF
+1比3_expand - 1:3資料集的壞詞擴增以及權重
+1比3_answer - 1:3答案
+badword_expanded - 擴增壞詞是否為原使壞詞、擴增次數、對應權重，共894個壞詞
+badwordList - 原始349個壞詞

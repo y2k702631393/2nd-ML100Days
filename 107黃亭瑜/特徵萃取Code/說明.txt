@@ -1,0 +1,14 @@
+BadWord - 壞詞數量
+EMOT - 表情符號數量、分數
+ExclamationQuestion - 驚嘆號/問號數量
+FirstPronouns - 第一人稱數量
+NormalizedTF - 正規化NTF
+Readability - 可讀性
+SecondPronouns - 第二人稱數量
+sentiwordnet - 正/負向情感數量、分數
+ThirdPronouns - 第三人稱數量
+Unigram - 一元詞代數量
+Uppercase - 大寫字母數量
+Weight - 權重計算
+Weight_sum - 權重總和
+wordnet - 壞詞同義詞
